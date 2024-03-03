@@ -14,8 +14,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Helen's final portfolio'
+    twitter: ''
   analytics:
     google_analytics: ''
     google_tag_manager: ''
@@ -41,15 +41,15 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+      text: "Home"
+      url: "https://helencmltfinalproject.netlify.app/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: '© {year} Helen Wu.'
     license:
       enable: true
       allow_derivatives: false
@@ -73,8 +73,8 @@ features:
     branch: 'main'
   feedback:
     responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      positive: ''
+      negative: ''
   comment:
     provider: ''
     giscus:

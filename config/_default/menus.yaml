@@ -5,14 +5,14 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
+  - name: Cover Letter
+    url: letter/
     weight: 20
-  - name: Blog
-    url: blog/
+  - name: Curated Work
+    url: work/
     weight: 30
-  - name: Showcase
-    url: showcase/
+  - name: Essays
+    url: essays/
     weight: 40
   - name: Community
     url: community/
